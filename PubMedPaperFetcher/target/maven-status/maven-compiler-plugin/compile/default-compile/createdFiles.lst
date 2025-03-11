@@ -1,0 +1,4 @@
+com\example\pubmed\Paper.class
+com\example\pubmed\CSVWriter.class
+com\example\pubmed\PaperFetcher.class
+com\example\pubmed\Main.class
